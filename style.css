@@ -1,0 +1,109 @@
+body {
+	background-color: #D3D3D3;
+	font-family: Verdana;
+}
+
+.Tims {
+	background-color: white;
+	text-align: center;
+	margin: auto auto;
+	padding: 50px 40px;
+	width: 700px;
+	height: 500px;
+
+}
+.photo img{
+	border-radius: 250px;
+	border:3px solid #D3D3D3;
+}
+.titre h2 {
+	color: red;
+	font-weight: bold;
+}
+.titre h3 {
+	color: #9a9999;
+}
+.Tims p {
+	color: #9a9999;
+	text-align: justify;
+	width: 700px;
+	margin-left: 50px;
+	margin: 0 0;
+	margin-bottom: 20px;
+
+}
+.bt {
+	background-color: red;
+	color: white;
+	text-align: center;
+	padding: 10px 10px;
+	border-radius: 5px;
+	margin: 10px;
+}
+a {
+	text-decoration: none;
+}
+
+.reseaux {
+	background-color: white;
+	margin: auto auto;
+	margin-top: 20px;
+	padding: 40px 40px;
+	width: 700px;
+	height: 100px;
+}
+
+li {
+	display: inline-block;
+	text-align: center;
+
+}
+.social-reseaux {
+	text-align: center;
+	
+}
+.social-reseaux a {
+	color: #9a9999;
+	display: inline-block;
+	
+}
+.social-reseaux i {
+	color: #9a9999;
+	font-size: 2em;
+	margin: 0 50px;
+	display: block;
+}
+.movies h2 {
+	color: #9a9999;
+	text-align: center;
+}
+.movies span{
+	background-color: #d2d2d2;
+}
+
+.movies {
+	background-color: white;
+	width: 700px;
+	height: 50%;
+	margin: auto auto;
+	margin-top: 20px;
+	padding: 40px 40px;
+}
+
+.movie {
+	display: flex;
+
+}
+.image {
+	flex:1;
+}
+.text {
+	flex: 3;
+	margin-left: 15px;
+	text-align: justify;
+}
+
+.text h3 {
+	text-align: center;
+}
+
